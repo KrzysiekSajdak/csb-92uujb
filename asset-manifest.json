@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://krzysieksajdak.github.io/csb-92uujb/static/css/main.83cceccc.css",
+    "main.js": "https://krzysieksajdak.github.io/csb-92uujb/static/js/main.dd85ff5c.js",
+    "index.html": "https://krzysieksajdak.github.io/csb-92uujb/index.html",
+    "main.83cceccc.css.map": "https://krzysieksajdak.github.io/csb-92uujb/static/css/main.83cceccc.css.map",
+    "main.dd85ff5c.js.map": "https://krzysieksajdak.github.io/csb-92uujb/static/js/main.dd85ff5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83cceccc.css",
+    "static/js/main.dd85ff5c.js"
+  ]
+}
