@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://krzysieksajdak.github.io/csb-92uujb/static/css/main.83cceccc.css",
-    "main.js": "https://krzysieksajdak.github.io/csb-92uujb/static/js/main.dd85ff5c.js",
+    "main.css": "https://krzysieksajdak.github.io/csb-92uujb/static/css/main.d4fc18ee.css",
+    "main.js": "https://krzysieksajdak.github.io/csb-92uujb/static/js/main.89e9d2f4.js",
     "index.html": "https://krzysieksajdak.github.io/csb-92uujb/index.html",
-    "main.83cceccc.css.map": "https://krzysieksajdak.github.io/csb-92uujb/static/css/main.83cceccc.css.map",
-    "main.dd85ff5c.js.map": "https://krzysieksajdak.github.io/csb-92uujb/static/js/main.dd85ff5c.js.map"
+    "main.d4fc18ee.css.map": "https://krzysieksajdak.github.io/csb-92uujb/static/css/main.d4fc18ee.css.map",
+    "main.89e9d2f4.js.map": "https://krzysieksajdak.github.io/csb-92uujb/static/js/main.89e9d2f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.83cceccc.css",
-    "static/js/main.dd85ff5c.js"
+    "static/css/main.d4fc18ee.css",
+    "static/js/main.89e9d2f4.js"
   ]
 }
